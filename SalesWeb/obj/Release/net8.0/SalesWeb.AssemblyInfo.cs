@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("SalesWeb")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cf2900746bf8156115c483c9e4204a70ce07fd8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efd129d7f63371c59c2d536bfaae166ae4b1b1b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SalesWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SalesWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
