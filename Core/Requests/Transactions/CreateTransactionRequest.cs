@@ -10,7 +10,7 @@ namespace Core.Requests.Transactions
         public string Title { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "Tipo inválido")]
-        public TransactionType type { get; set; } = TransactionType.Withdraw;
+        public TransactionType Type { get; set; } = TransactionType.Withdraw;
 
         [Required(ErrorMessage = "Valor inválido")]
         public decimal Amount { get; set; }
